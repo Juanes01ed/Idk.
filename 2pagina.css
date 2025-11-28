@@ -1,0 +1,14 @@
+header{
+    background-color: rgb(52, 156, 156);
+    padding: 20px;
+    color: white;
+    text-align: center;
+}
+h1{
+    font-size: 30px;
+    font-family: Arial,sans-serif;
+}
+h1:hover{
+    color: rgb(151, 206, 224);
+    font-size: 35px;
+}
